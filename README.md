@@ -18,7 +18,13 @@
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 
 
-### Hi there 👋
+<!-- Markdown -->
+![](https://visitor-badge.glitch.me/badge?page_id=username)
+<!-- HTML -->
+<div align="left"> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=username" />
+</div>
+
 
 <!--
 **1769073060/1769073060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
