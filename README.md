@@ -18,10 +18,10 @@
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 
 <!-- Markdown -->
-![](https://visitor-badge.glitch.me/badge?page_id=username)
+![](https://visitor-badge.glitch.me/badge?page_id=1769073060)
 <!-- HTML -->
 <div align="left"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=username" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=1769073060" />
 </div>
 
 ### Hi there 👋
